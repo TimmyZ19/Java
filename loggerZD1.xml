@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T06:56:38.919973200Z</date>
+  <millis>1670396198919</millis>
+  <nanos>973200</nanos>
+  <sequence>0</sequence>
+  <logger>ZD1</logger>
+  <level>INFO</level>
+  <class>ZD1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-07T06:56:39.117998Z</date>
+  <millis>1670396199117</millis>
+  <nanos>998000</nanos>
+  <sequence>1</sequence>
+  <logger>ZD1</logger>
+  <level>INFO</level>
+  <class>ZD1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-07T06:56:39.133650800Z</date>
+  <millis>1670396199133</millis>
+  <nanos>650800</nanos>
+  <sequence>2</sequence>
+  <logger>ZD1</logger>
+  <level>INFO</level>
+  <class>ZD1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-07T06:56:39.133650800Z</date>
+  <millis>1670396199133</millis>
+  <nanos>650800</nanos>
+  <sequence>3</sequence>
+  <logger>ZD1</logger>
+  <level>INFO</level>
+  <class>ZD1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-07T06:56:39.133650800Z</date>
+  <millis>1670396199133</millis>
+  <nanos>650800</nanos>
+  <sequence>4</sequence>
+  <logger>ZD1</logger>
+  <level>INFO</level>
+  <class>ZD1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-07T06:56:39.133650800Z</date>
+  <millis>1670396199133</millis>
+  <nanos>650800</nanos>
+  <sequence>5</sequence>
+  <logger>ZD1</logger>
+  <level>INFO</level>
+  <class>ZD1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-07T06:56:39.133650800Z</date>
+  <millis>1670396199133</millis>
+  <nanos>650800</nanos>
+  <sequence>6</sequence>
+  <logger>ZD1</logger>
+  <level>INFO</level>
+  <class>ZD1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-07T06:56:39.133650800Z</date>
+  <millis>1670396199133</millis>
+  <nanos>650800</nanos>
+  <sequence>7</sequence>
+  <logger>ZD1</logger>
+  <level>INFO</level>
+  <class>ZD1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+</log>
