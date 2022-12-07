@@ -2,22 +2,10 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2022-12-07T07:19:17.974032200Z</date>
-  <millis>1670397557974</millis>
-  <nanos>32200</nanos>
+  <date>2022-12-07T07:32:24.029309200Z</date>
+  <millis>1670398344029</millis>
+  <nanos>309200</nanos>
   <sequence>0</sequence>
-  <logger>ZD2</logger>
-  <level>INFO</level>
-  <class>ZD2</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Введено первое число 4</message>
-</record>
-<record>
-  <date>2022-12-07T07:19:30.803662200Z</date>
-  <millis>1670397570803</millis>
-  <nanos>662200</nanos>
-  <sequence>1</sequence>
   <logger>ZD2</logger>
   <level>INFO</level>
   <class>ZD2</class>
@@ -26,15 +14,39 @@
   <message>Введено первое число 5</message>
 </record>
 <record>
-  <date>2022-12-07T07:19:30.803662200Z</date>
-  <millis>1670397570803</millis>
-  <nanos>662200</nanos>
+  <date>2022-12-07T07:32:35.246380300Z</date>
+  <millis>1670398355246</millis>
+  <nanos>380300</nanos>
+  <sequence>1</sequence>
+  <logger>ZD2</logger>
+  <level>INFO</level>
+  <class>ZD2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Введен знак /</message>
+</record>
+<record>
+  <date>2022-12-07T07:32:40.133649400Z</date>
+  <millis>1670398360133</millis>
+  <nanos>649400</nanos>
   <sequence>2</sequence>
   <logger>ZD2</logger>
   <level>INFO</level>
   <class>ZD2</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Результат: 4+5=9</message>
+  <message>Введено второе число 4</message>
+</record>
+<record>
+  <date>2022-12-07T07:32:40.149221800Z</date>
+  <millis>1670398360149</millis>
+  <nanos>221800</nanos>
+  <sequence>3</sequence>
+  <logger>ZD2</logger>
+  <level>INFO</level>
+  <class>ZD2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат: 5/4=1</message>
 </record>
 </log>

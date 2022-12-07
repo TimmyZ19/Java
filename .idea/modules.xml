@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java_GB.iml" filepath="$PROJECT_DIR$/Java_GB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sem1_HW/Sem1_HW.iml" filepath="$PROJECT_DIR$/Sem1_HW/Sem1_HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sem2_HW/Sem2_HW.iml" filepath="$PROJECT_DIR$/Sem2_HW/Sem2_HW.iml" />
     </modules>
   </component>
 </project>
