@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T07:19:17.974032200Z</date>
+  <millis>1670397557974</millis>
+  <nanos>32200</nanos>
+  <sequence>0</sequence>
+  <logger>ZD2</logger>
+  <level>INFO</level>
+  <class>ZD2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Введено первое число 4</message>
+</record>
+<record>
+  <date>2022-12-07T07:19:30.803662200Z</date>
+  <millis>1670397570803</millis>
+  <nanos>662200</nanos>
+  <sequence>1</sequence>
+  <logger>ZD2</logger>
+  <level>INFO</level>
+  <class>ZD2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Введено первое число 5</message>
+</record>
+<record>
+  <date>2022-12-07T07:19:30.803662200Z</date>
+  <millis>1670397570803</millis>
+  <nanos>662200</nanos>
+  <sequence>2</sequence>
+  <logger>ZD2</logger>
+  <level>INFO</level>
+  <class>ZD2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат: 4+5=9</message>
+</record>
+</log>
